@@ -1,2 +1,0 @@
-# Fact-Checking-Program
-fff
